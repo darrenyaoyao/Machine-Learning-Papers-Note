@@ -12,3 +12,5 @@ A list of papers and my reading note to Machine learning.
    - [note](https://hackmd.io/MzDGFMAYEZgVgLQDNgBMBsCAsEDsCAOLVJBaCdXAQwCNQMBOLIA=?view)
  - Convolutional Neural Networks for Sentence Classification [pdf](https://arxiv.org/pdf/1408.5882v2.pdf)
    - [note](https://hackmd.io/OwBgrAxsYKYBwFoAscCcxkGYIDMEENUYwEAmVJANgEYATAIxGpmiA===)
+ - Distant Supervision for Relation Extraction via Piecewise CNN [pdf](http://www.aclweb.org/anthology/D15-1203)
+   - [note](https://hackmd.io/KYBgTAHAxsCMCsBaCAjAzGxAWEaKJRADYREwjgATNAQyPmCIiyA=?both)
