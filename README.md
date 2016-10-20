@@ -14,3 +14,5 @@ A list of papers and my reading note to Machine learning.
    - [note](https://hackmd.io/OwBgrAxsYKYBwFoAscCcxkGYIDMEENUYwEAmVJANgEYATAIxGpmiA===)
  - Distant Supervision for Relation Extraction via Piecewise CNN [pdf](http://www.aclweb.org/anthology/D15-1203)
    - [note](https://hackmd.io/KYBgTAHAxsCMCsBaCAjAzGxAWEaKJRADYREwjgATNAQyPmCIiyA=?both)
+ - Relation Classification via Convolutional Deep Neural Network [pdf](http://www.aclweb.org/anthology/C14-1220)
+   - [note](https://hackmd.io/IwdgZgbARgJhAMBaCBjAnDRAWeBTAHImgKwwCGiKZxBxx8AzCnUA)
