@@ -16,3 +16,5 @@ A list of papers and my reading note to Machine learning.
    - [note](https://hackmd.io/KYBgTAHAxsCMCsBaCAjAzGxAWEaKJRADYREwjgATNAQyPmCIiyA=?both)
  - Relation Classification via Convolutional Deep Neural Network [pdf](http://www.aclweb.org/anthology/C14-1220)
    - [note](https://hackmd.io/IwdgZgbARgJhAMBaCBjAnDRAWeBTAHImgKwwCGiKZxBxx8AzCnUA)
+ - Distant Supervision for Relation Extraction without Labeled Data [pdf](https://web.stanford.edu/~jurafsky/mintz.pdf)
+   - [note](https://hackmd.io/AwZgnATAjAbAHAIwLQEMzqQFgMbG0sTBTJAVmGAHYZg4ATBsEIA=)
